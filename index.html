@@ -23,7 +23,12 @@ function onLoad() {
                 theme: "red",
                 type: "kml",     // Data to be loaded in KML - must be a local URL
                 options: {
-                    url: "earthquakes.kml" // KML file to load
+                    url: "earthquakes.kml",
+                    extendedData: ["date","z","mag","info"],
+                    infoTemplate: '<strong>Magnitude:</strong> {{mag}}<br/>' +
+                                  '<strong>Depth:</strong> {{z}}km<br/>' +
+                                  '<strong>Date (UTC):</strong> {{date}}<br/>' +
+                                  '<strong>Info:</strong> {{info}}'
                 }
             }
         ],
@@ -31,7 +36,7 @@ function onLoad() {
             {
                width:          "70%", 
                intervalUnit:   Timeline.DateTime.MINUTE, 
-		           intervalPixels: 40,
+		           intervalPixels: 20,
                timeZone: 12
             },
             {
