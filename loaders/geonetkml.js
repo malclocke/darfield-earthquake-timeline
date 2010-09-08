@@ -160,6 +160,8 @@ TimeMap.loaders.geonetkml.parse = function(kml) {
         }
         // look for any extra tags and/or ExtendedData specified
         this.parseExtra(data, pm);
+        data.title = 'M' + data.options.mag + ' (' + Math.floor(data.options.z) + 'km)';
+        data.options.date = new Date(data.options.date).toLocaleString();
         // set theme based on style
         switch (Math.floor(data.options.mag)) {
           case 7:
