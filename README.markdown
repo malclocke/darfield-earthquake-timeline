@@ -13,3 +13,10 @@ To update the file:
 * Select KML as the output format, and save the resulting file over the
   existing earthquakes.kml
 
+TODO
+====
+
+* Custom size / colour of map markers based on magnitude / depth
+* Filter by depth
+* Zoom timescale
+* Animate display

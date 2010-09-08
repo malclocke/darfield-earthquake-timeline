@@ -54,4 +54,13 @@ div.custominfostyle {
     font-style: italic;
     width: 20em;
 }
+ul#key li {
+  list-style-type: none;
+  display: inline;
+  padding: 0.2em;
+  border: 1px solid gray;
+}
 
+ul#key img {
+  vertical-align: middle;
+}
