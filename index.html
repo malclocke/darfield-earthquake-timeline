@@ -12,7 +12,7 @@
 var tm;
 
 function onLoad() {
-    window.magmin = 3;
+    window.magmin = 2;
     window.magmax = 8;
 
     tm = TimeMap.init({
@@ -103,7 +103,8 @@ function setMagnitude(select) {
         <legend>Filters</legend>
         <label for="magmin">Min magnitude</label>
         <select id="magmin" onChange="setMagnitude(this)">
-          <option value="3" selected="true">3</option>
+          <option value="2" selected="true">2</option>
+          <option value="3">3</option>
           <option value="4">4</option>
           <option value="5">5</option>
           <option value="6">6</option>
@@ -111,6 +112,7 @@ function setMagnitude(select) {
         </select>
         <label for="magmax">Max magnitude</label>
         <select id="magmax" onChange="setMagnitude(this)">
+          <option value="3">3</option>
           <option value="4">4</option>
           <option value="5">5</option>
           <option value="6">6</option>
