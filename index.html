@@ -11,12 +11,10 @@
 
 var tm;
 
-TimeMap.loaders.base({
-  transformFunction: setTheme
-});
-
-
 function onLoad() {
+    window.magmin = 3;
+    window.magmax = 8;
+
     tm = TimeMap.init({
         mapId: "map",               // Id of map div element (required)
         timelineId: "timeline",     // Id of timeline div element (required) 
@@ -54,11 +52,26 @@ function onLoad() {
             }
         ]
     });
+
+    tm.addFilter("map", TimeMap.filters.isMagnitude);
+    tm.addFilter("timeline", TimeMap.filters.isMagnitude);
 }
 
-function setTheme(data) {
-  data["theme"] = "blue";
-  return data;
+TimeMap.filters.isMagnitude = function(item) {
+  if (!window.magmin && !window.magmax) {
+    return true;
+  }
+  return (Number(item.opts.mag) > window.magmin) && (Number(item.opts.mag) < window.magmax);
+}
+
+function setMagnitude(select) {
+  if (select.id == 'magmin') {
+    window.magmin = Number(select.options[select.selectedIndex].value);
+  } else if (select.id == 'magmax') {
+    window.magmax = Number(select.options[select.selectedIndex].value);
+  }
+  tm.filter('map');
+  tm.filter('timeline');
 }
     </script>
 	  <link href="styles.css" type="text/css" rel="stylesheet"/>
@@ -85,6 +98,27 @@ function setTheme(data) {
       it on github</a>, improvements gratefully received.
     </p>
     </div>
+    <form>
+      <fieldset>
+        <legend>Filters</legend>
+        <label for="magmin">Min magnitude</label>
+        <select id="magmin" onChange="setMagnitude(this)">
+          <option value="3" selected="true">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+        </select>
+        <label for="magmax">Max magnitude</label>
+        <select id="magmax" onChange="setMagnitude(this)">
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8" selected="true">8</option>
+        </select>
+      </fieldset>
+    </form>
     <div id="timemap">
         <div id="timelinecontainer">
           <div id="timeline"></div>
