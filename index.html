@@ -91,22 +91,14 @@ function setMagnitude(select) {
   </head>
 
   <body onload="onLoad();" onunload="GUnload();">
-    <div id="help">
     <h1>Darfield earthquake timeline</h1>
     <p>
       This map shows a timeline of the main quake and aftershocks from the
-      Darfield Earthquake of 4th September 2010.  Uses the excellent data from
-      <a href="http://geonet.org.nz/">GeoNet</a> and Nick Rab's <a
-        href="http://code.google.com/p/timemap">timemap</a> javascript library.
+      Darfield Earthquake of 4th September 2010.
     </p>
     <p>
-    Drag the grey bars above the map to change the time.
-    <p>
-    Coders, <a
-      href="http://github.com/malclocke/darfield-earthquake-timeline">fork
-      it on github</a>, improvements gratefully received.
+      Drag the grey bars above the map to change the time.
     </p>
-    </div>
     <form>
       <fieldset>
         <legend>Filters</legend>
@@ -146,6 +138,22 @@ function setMagnitude(select) {
       <li><img src="images/blue-circle.png" />Mag 3 - 4</li>
       <li><img src="images/ltblue-circle.png" />Under 3</li>
     </ul>
+    <hr />
+    <h2>About</h2>
+    <p>
+      Uses the excellent data from
+      <a href="http://geonet.org.nz/">GeoNet</a> and Nick Rab's <a
+        href="http://code.google.com/p/timemap">timemap</a> javascript library,
+      which in turn uses the <a
+        href="http://www.simile-widgets.org/timeline/">MIT SIMILE timeline</a>
+      library and the <a href="http://maps.google.com/">Google Maps</a> API.
+    </p>
+    <p>
+    Coders, <a
+      href="http://github.com/malclocke/darfield-earthquake-timeline">fork
+      it on github</a>, improvements gratefully received.  Cobbled together
+      by <a href="http://wholemeal.co.nz/">Malcolm Locke</a>.
+    </p>
     <script type="text/javascript">
 
       var _gaq = _gaq || [];
