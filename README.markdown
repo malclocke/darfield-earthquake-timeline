@@ -6,7 +6,7 @@ library doesn't support remote kml.
 
 To update the file:
 
-* Go to http://magma.geonet.org.nz/resources/quakesearch/
+* Go to the [GeoNet quake search](http://magma.geonet.org.nz/resources/quakesearch/)
 * Set the date range, and draw a box around the Canterbury region on
   the map to exclude other quakes.  Setting the end date to tomorrow will
   ensure you get all the known aftershocks.
