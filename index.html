@@ -44,16 +44,19 @@ function onLoad() {
         ],
         bandInfo: [
             {
-               width:          "70%", 
+               width:          "80%", 
                intervalUnit:   Timeline.DateTime.HOUR, 
 		           intervalPixels: 400,
                timeZone: 12
             },
             {
-               width:          "30%", 
+               width:          "20%", 
                intervalUnit:   Timeline.DateTime.DAY, 
-		           intervalPixels: 300,
+		           intervalPixels: 100,
                showEventText:  false,
+               overview: true,
+               trackHeight:    0.2,
+               trackGap:       0.1,
                timeZone: 12
             }
         ]
