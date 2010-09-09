@@ -16,7 +16,7 @@ To update the file:
 TODO
 ====
 
-* Custom size / colour of map markers based on magnitude / depth
+* Customise map markers based on depth
 * Filter by depth
 * Zoom timescale
 * Animate display
