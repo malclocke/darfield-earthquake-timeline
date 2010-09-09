@@ -20,7 +20,6 @@ var tm;
 function onLoad() {
     window.magmin = 2;
     window.magmax = 8;
-
     tm = TimeMap.init({
         mapId: "map",               // Id of map div element (required)
         timelineId: "timeline",     // Id of timeline div element (required) 
@@ -64,6 +63,22 @@ function onLoad() {
 
     tm.addFilter("map", TimeMap.filters.isMagnitude);
     tm.addFilter("timeline", TimeMap.filters.isMagnitude);
+}
+
+sizes = {red: 128, orange: 96, yellow: 64, green: 32, blue: 24, ltblue: 16};
+colours = {red: "#ff0000", orange: "#FF9900", yellow: "#ECE64A", green: "#19CF54", blue: "#5A7ACF", ltblue: "#5ACFCF"};
+
+for (colour in sizes) {
+  var size = sizes[colour];
+  icon = new GIcon(G_DEFAULT_ICON);
+  icon.image = "images/" + colour + "-" + size + ".png";
+  icon.iconSize = new GSize(size,size);
+  icon.iconAnchor = new GPoint(size / 2,size / 2);
+  icon.infoWindowAnchor = new GPoint(size / 2,size / 2);
+  icon.shadow = null;
+  TimeMap.themes[colour] = new TimeMapTheme({
+    icon: icon, color: colours[colour], eventIconImage: colour + '-circle.png'
+  });
 }
 
 TimeMap.filters.isMagnitude = function(item) {
