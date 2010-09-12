@@ -8,18 +8,18 @@ body, fieldset {
   border: 1px solid #ddd;
 }
 
-ul#key {
+ul.key {
   padding: 0;
 }
 
-ul#key li {
+ul.key li {
   list-style-type: none;
   display: inline;
   padding: 0.2em;
   border: 1px solid gray;
 }
 
-ul#key img {
+ul.key img {
   vertical-align: middle;
 }
 
