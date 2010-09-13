@@ -4,7 +4,7 @@ require 'date'
 
 kml = REXML::Document.new(File.read('earthquakes.kml'))
 
-quakes = {2 => {},3 => {},4 => {},4 => {},5 => {},6 => {},7 => {}}
+quakes = {1 => {},2 => {},3 => {},4 => {},4 => {},5 => {},6 => {},7 => {}}
 mindate = maxdate = nil
 
 # Create a hash of all shocks keyed by date
