@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <kml xmlns:ns2="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2" xmlns:ns3="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
 <Document>
-<name>587 New Zealand Earthquakes</name>
+<name>743 New Zealand Earthquakes</name>
 <description>Reference, date, magnitude and depth mapped under element Data with name attribute ref, date, mag and z respectively. Location (WGS84) mapped under element Point. Points are coloured by depth and sized according to magnitude.</description>
 <LookAt>
 <longitude>172</longitude>
@@ -274,9 +274,9 @@
 <Folder>
 <name>Mag 7+ earthquakes by date</name>
 <Placemark>
-<name>M7.1 - 2010-09-03T16:35:41.284Z</name>
+<name>M7.1 - 2010-09-03T16:35:41.291Z</name>
 <TimeStamp>
-<when>2010-09-03T16:35:41.284Z</when>
+<when>2010-09-03T16:35:41.291Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -291,7 +291,7 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>10.9597</value>
+<value>10.8659</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
@@ -299,7 +299,7 @@
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-03T16:35:41.284Z</value>
+<value>2010-09-03T16:35:41.291Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -307,7 +307,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1745,-43.5507</coordinates>
+<coordinates>172.1745,-43.5506</coordinates>
 </Point>
 </Placemark>
 </Folder>
@@ -649,6 +649,228 @@
 </Folder>
 <Folder>
 <name>Mag 4 earthquakes by date</name>
+<Placemark>
+<name>M4.437 - 2010-09-16T12:08:53.261Z</name>
+<TimeStamp>
+<when>2010-09-16T12:08:53.261Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.4</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373119</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3.3802</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>4.437</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T12:08:53.261Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373119"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.9410,-43.5558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M4.376 - 2010-09-16T10:56:45.922Z</name>
+<TimeStamp>
+<when>2010-09-16T10:56:45.922Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.4</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373089</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>4.2431</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>4.376</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T10:56:45.922Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373089"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4483,-43.6100</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M4.113 - 2010-09-16T10:36:02.720Z</name>
+<TimeStamp>
+<when>2010-09-16T10:36:02.720Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.4</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373082</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>9.4966</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>4.113</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T10:36:02.720Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373082"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4425,-43.5690</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M4.163 - 2010-09-16T05:53:46.066Z</name>
+<TimeStamp>
+<when>2010-09-16T05:53:46.066Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.4</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372984</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>18.2505</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>4.163</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T05:53:46.066Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372984"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3790,-43.6425</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M4.263 - 2010-09-15T16:35:31.051Z</name>
+<TimeStamp>
+<when>2010-09-15T16:35:31.051Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.4</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372691</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5.6342</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>4.263</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T16:35:31.051Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372691"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4547,-43.6467</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M4.471 - 2010-09-15T15:13:51.482Z</name>
+<TimeStamp>
+<when>2010-09-15T15:13:51.482Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.4</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372661</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.2848</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>4.471</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T15:13:51.482Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372661"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4746,-43.6538</coordinates>
+</Point>
+</Placemark>
 <Placemark>
 <name>M4.368 - 2010-09-15T10:42:41.205Z</name>
 <TimeStamp>
@@ -1390,9 +1612,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.269 - 2010-09-08T02:49:59.968Z</name>
+<name>M4.268 - 2010-09-08T02:50:00.149Z</name>
 <TimeStamp>
-<when>2010-09-08T02:49:59.968Z</when>
+<when>2010-09-08T02:50:00.149Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -1407,15 +1629,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>9.2485</value>
+<value>7.5857</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.269</value>
+<value>4.268</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T02:49:59.968Z</value>
+<value>2010-09-08T02:50:00.149Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -1423,13 +1645,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3703,-43.6166</coordinates>
+<coordinates>172.3638,-43.6058</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.126 - 2010-09-08T01:41:18.542Z</name>
+<name>M4.143 - 2010-09-08T01:41:18.556Z</name>
 <TimeStamp>
-<when>2010-09-08T01:41:18.542Z</when>
+<when>2010-09-08T01:41:18.556Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -1444,15 +1666,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>5</value>
+<value>6.4599</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.126</value>
+<value>4.143</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T01:41:18.542Z</value>
+<value>2010-09-08T01:41:18.556Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -1460,7 +1682,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>171.8792,-43.5869</coordinates>
+<coordinates>171.8842,-43.5798</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -1760,9 +1982,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.195 - 2010-09-06T03:34:46.854Z</name>
+<name>M4.247 - 2010-09-06T03:34:47.086Z</name>
 <TimeStamp>
-<when>2010-09-06T03:34:46.854Z</when>
+<when>2010-09-06T03:34:47.086Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -1777,15 +1999,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>6.5712</value>
+<value>7.0696</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.195</value>
+<value>4.247</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T03:34:46.854Z</value>
+<value>2010-09-06T03:34:47.086Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -1793,13 +2015,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1673,-43.4655</coordinates>
+<coordinates>172.1794,-43.4511</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.36 - 2010-09-06T03:07:42.420Z</name>
+<name>M4.346 - 2010-09-06T03:07:42.474Z</name>
 <TimeStamp>
-<when>2010-09-06T03:07:42.420Z</when>
+<when>2010-09-06T03:07:42.474Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -1814,15 +2036,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>7.8385</value>
+<value>7.5676</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.36</value>
+<value>4.346</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T03:07:42.420Z</value>
+<value>2010-09-06T03:07:42.474Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -1830,13 +2052,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3764,-43.5903</coordinates>
+<coordinates>172.3765,-43.5916</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.126 - 2010-09-06T02:48:17.095Z</name>
+<name>M4.112 - 2010-09-06T02:48:17.019Z</name>
 <TimeStamp>
-<when>2010-09-06T02:48:17.095Z</when>
+<when>2010-09-06T02:48:17.019Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -1851,15 +2073,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>5.6662</value>
+<value>5.1414</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.126</value>
+<value>4.112</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T02:48:17.095Z</value>
+<value>2010-09-06T02:48:17.019Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -1867,7 +2089,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4321,-43.6699</coordinates>
+<coordinates>172.4264,-43.6723</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -1908,9 +2130,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.418 - 2010-09-06T00:35:03.859Z</name>
+<name>M4.43 - 2010-09-06T00:35:04.020Z</name>
 <TimeStamp>
-<when>2010-09-06T00:35:03.859Z</when>
+<when>2010-09-06T00:35:04.020Z</when>
 </TimeStamp>
 <styleUrl>#red</styleUrl>
 <Style>
@@ -1925,15 +2147,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>16.55</value>
+<value>16.5143</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.418</value>
+<value>4.43</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T00:35:03.859Z</value>
+<value>2010-09-06T00:35:04.020Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -1941,7 +2163,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.2522,-43.6005</coordinates>
+<coordinates>172.2575,-43.5880</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -2019,9 +2241,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.308 - 2010-09-05T12:16:34.957Z</name>
+<name>M4.24 - 2010-09-05T12:16:34.629Z</name>
 <TimeStamp>
-<when>2010-09-05T12:16:34.957Z</when>
+<when>2010-09-05T12:16:34.629Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -2036,15 +2258,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>6.918</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.308</value>
+<value>4.24</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-05T12:16:34.957Z</value>
+<value>2010-09-05T12:16:34.629Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -2052,7 +2274,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4909,-43.6176</coordinates>
+<coordinates>172.4625,-43.6246</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -3462,11 +3684,11 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.202 - 2010-09-03T18:17:59.510Z</name>
+<name>M4.242 - 2010-09-03T18:17:57.509Z</name>
 <TimeStamp>
-<when>2010-09-03T18:17:59.510Z</when>
+<when>2010-09-03T18:17:57.509Z</when>
 </TimeStamp>
-<styleUrl>#red</styleUrl>
+<styleUrl>#pink</styleUrl>
 <Style>
 <IconStyle>
 <scale>0.4</scale>
@@ -3479,15 +3701,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>19.2033</value>
+<value>14.7283</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.202</value>
+<value>4.242</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-03T18:17:59.510Z</value>
+<value>2010-09-03T18:17:57.509Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -3495,13 +3717,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1358,-43.4778</coordinates>
+<coordinates>171.9400,-43.6537</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.349 - 2010-09-03T18:15:25.489Z</name>
+<name>M4.135 - 2010-09-03T18:15:25.779Z</name>
 <TimeStamp>
-<when>2010-09-03T18:15:25.489Z</when>
+<when>2010-09-03T18:15:25.779Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -3520,11 +3742,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.349</value>
+<value>4.135</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-03T18:15:25.489Z</value>
+<value>2010-09-03T18:15:25.779Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -3532,50 +3754,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1731,-43.6293</coordinates>
+<coordinates>172.1898,-43.6093</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M4.146 - 2010-09-03T18:07:13.290Z</name>
+<name>M4.108 - 2010-09-03T18:04:07.037Z</name>
 <TimeStamp>
-<when>2010-09-03T18:07:13.290Z</when>
-</TimeStamp>
-<styleUrl>#pink</styleUrl>
-<Style>
-<IconStyle>
-<scale>0.4</scale>
-</IconStyle>
-</Style>
-<ExtendedData>
-<Data name="ref">
-<displayName>Reference</displayName>
-<value>3366188</value>
-</Data>
-<Data name="z">
-<displayName>Depth (km)</displayName>
-<value>7.4924</value>
-</Data>
-<Data name="mag">
-<displayName>Magnitude</displayName>
-<value>4.146</value>
-</Data>
-<Data name="date">
-<displayName>Date (UTC)</displayName>
-<value>2010-09-03T18:07:13.290Z</value>
-</Data>
-<Data name="info">
-<displayName>More info</displayName>
-<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3366188"&gt;Click here&lt;/a&gt;</value>
-</Data>
-</ExtendedData>
-<Point>
-<coordinates>172.4149,-43.5990</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>M4.109 - 2010-09-03T18:04:07.684Z</name>
-<TimeStamp>
-<when>2010-09-03T18:04:07.684Z</when>
+<when>2010-09-03T18:04:07.037Z</when>
 </TimeStamp>
 <styleUrl>#red</styleUrl>
 <Style>
@@ -3590,15 +3775,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>18.2269</value>
+<value>22.7628</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>4.109</value>
+<value>4.108</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-03T18:04:07.684Z</value>
+<value>2010-09-03T18:04:07.037Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -3606,7 +3791,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.5410,-43.5540</coordinates>
+<coordinates>172.5653,-43.5537</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -3834,6 +4019,1745 @@
 </Folder>
 <Folder>
 <name>Mag 3 earthquakes by date</name>
+<Placemark>
+<name>M3.569 - 2010-09-17T02:45:01.069Z</name>
+<TimeStamp>
+<when>2010-09-17T02:45:01.069Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373472</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>14.4483</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.569</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-17T02:45:01.069Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373472"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4112,-43.6416</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.087 - 2010-09-16T23:59:56.549Z</name>
+<TimeStamp>
+<when>2010-09-16T23:59:56.549Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373403</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>0</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.087</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T23:59:56.549Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373403"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.9616,-43.4533</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.871 - 2010-09-16T23:22:30.378Z</name>
+<TimeStamp>
+<when>2010-09-16T23:22:30.378Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373385</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.8709</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.871</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T23:22:30.378Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373385"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1299,-43.6120</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.433 - 2010-09-16T23:07:58.768Z</name>
+<TimeStamp>
+<when>2010-09-16T23:07:58.768Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373378</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3.9889</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.433</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T23:07:58.768Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373378"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4628,-43.6257</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.728 - 2010-09-16T22:59:12.287Z</name>
+<TimeStamp>
+<when>2010-09-16T22:59:12.287Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373375</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>7.6156</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.728</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T22:59:12.287Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373375"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5030,-43.5903</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.279 - 2010-09-16T22:17:37.504Z</name>
+<TimeStamp>
+<when>2010-09-16T22:17:37.504Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373357</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.279</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T22:17:37.504Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373357"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4608,-43.4936</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.468 - 2010-09-16T20:29:13.151Z</name>
+<TimeStamp>
+<when>2010-09-16T20:29:13.151Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373311</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.906</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.468</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T20:29:13.151Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373311"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4227,-43.5352</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.386 - 2010-09-16T20:09:03.880Z</name>
+<TimeStamp>
+<when>2010-09-16T20:09:03.880Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373304</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.386</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T20:09:03.880Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373304"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5883,-43.6063</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.391 - 2010-09-16T20:06:24.417Z</name>
+<TimeStamp>
+<when>2010-09-16T20:06:24.417Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373303</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.391</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T20:06:24.417Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373303"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5517,-43.5746</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.055 - 2010-09-16T16:53:06.473Z</name>
+<TimeStamp>
+<when>2010-09-16T16:53:06.473Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373222</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>4.9074</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.055</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T16:53:06.473Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373222"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.6790,-43.5720</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.406 - 2010-09-16T13:32:57.158Z</name>
+<TimeStamp>
+<when>2010-09-16T13:32:57.158Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373151</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5.1497</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.406</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T13:32:57.158Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373151"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4528,-43.6245</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.34 - 2010-09-16T13:16:42.439Z</name>
+<TimeStamp>
+<when>2010-09-16T13:16:42.439Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373145</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>19.5222</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.34</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T13:16:42.439Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373145"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.6031,-43.5870</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.328 - 2010-09-16T12:04:34.709Z</name>
+<TimeStamp>
+<when>2010-09-16T12:04:34.709Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373117</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>11.2231</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.328</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T12:04:34.709Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373117"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.6963,-43.4052</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.619 - 2010-09-16T11:39:53.534Z</name>
+<TimeStamp>
+<when>2010-09-16T11:39:53.534Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373107</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>9.1488</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.619</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T11:39:53.534Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373107"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.8679,-43.5797</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.101 - 2010-09-16T11:23:23.765Z</name>
+<TimeStamp>
+<when>2010-09-16T11:23:23.765Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373101</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>2.7179</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.101</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T11:23:23.765Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373101"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5727,-43.5931</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.358 - 2010-09-16T11:09:00.309Z</name>
+<TimeStamp>
+<when>2010-09-16T11:09:00.309Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373095</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>4.4942</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.358</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T11:09:00.309Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373095"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4458,-43.6347</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.867 - 2010-09-16T10:33:41.421Z</name>
+<TimeStamp>
+<when>2010-09-16T10:33:41.421Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373081</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>8.3465</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.867</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T10:33:41.421Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373081"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1484,-43.5026</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.935 - 2010-09-16T10:28:52.789Z</name>
+<TimeStamp>
+<when>2010-09-16T10:28:52.789Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373078</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>13.4914</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.935</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T10:28:52.789Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373078"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3528,-43.6114</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.11 - 2010-09-16T09:20:48.525Z</name>
+<TimeStamp>
+<when>2010-09-16T09:20:48.525Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373056</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>8.8118</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.11</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T09:20:48.525Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373056"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1411,-43.4844</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.376 - 2010-09-16T08:01:31.814Z</name>
+<TimeStamp>
+<when>2010-09-16T08:01:31.814Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373029</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.376</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T08:01:31.814Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373029"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.9195,-43.5225</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.712 - 2010-09-16T07:35:32.556Z</name>
+<TimeStamp>
+<when>2010-09-16T07:35:32.556Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373021</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.5556</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.712</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T07:35:32.556Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373021"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3659,-43.5804</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.52 - 2010-09-16T05:59:38.857Z</name>
+<TimeStamp>
+<when>2010-09-16T05:59:38.857Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372986</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>11.5398</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.52</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T05:59:38.857Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372986"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3796,-43.5870</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.319 - 2010-09-16T04:54:14.004Z</name>
+<TimeStamp>
+<when>2010-09-16T04:54:14.004Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372960</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.1606</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.319</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T04:54:14.004Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372960"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2017,-43.5454</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.37 - 2010-09-16T03:23:49.262Z</name>
+<TimeStamp>
+<when>2010-09-16T03:23:49.262Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372927</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>13.2978</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.37</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T03:23:49.262Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372927"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2824,-43.6060</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.582 - 2010-09-16T03:00:03.773Z</name>
+<TimeStamp>
+<when>2010-09-16T03:00:03.773Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372918</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.287</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.582</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T03:00:03.773Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372918"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4482,-43.6682</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.197 - 2010-09-16T01:30:46.736Z</name>
+<TimeStamp>
+<when>2010-09-16T01:30:46.736Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372879</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>2.0832</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.197</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T01:30:46.736Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372879"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.9746,-43.6406</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.526 - 2010-09-16T00:27:39.914Z</name>
+<TimeStamp>
+<when>2010-09-16T00:27:39.914Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372857</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>2.1733</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.526</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T00:27:39.914Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372857"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1858,-43.5201</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.327 - 2010-09-16T00:23:59.261Z</name>
+<TimeStamp>
+<when>2010-09-16T00:23:59.261Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372856</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>18.2775</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.327</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T00:23:59.261Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372856"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2649,-43.5942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.622 - 2010-09-15T23:43:12.093Z</name>
+<TimeStamp>
+<when>2010-09-15T23:43:12.093Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372839</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>17.3197</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.622</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T23:43:12.093Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372839"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.9547,-43.5717</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.346 - 2010-09-15T22:47:50.446Z</name>
+<TimeStamp>
+<when>2010-09-15T22:47:50.446Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372816</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>8.8493</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.346</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T22:47:50.446Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372816"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1652,-43.4581</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.715 - 2010-09-15T22:35:55.099Z</name>
+<TimeStamp>
+<when>2010-09-15T22:35:55.099Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372811</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>20.1486</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.715</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T22:35:55.099Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372811"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3165,-43.6319</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.248 - 2010-09-15T21:54:04.623Z</name>
+<TimeStamp>
+<when>2010-09-15T21:54:04.623Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372795</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>9.963</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.248</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T21:54:04.623Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372795"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3516,-43.5449</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.351 - 2010-09-15T21:30:20.092Z</name>
+<TimeStamp>
+<when>2010-09-15T21:30:20.092Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372787</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>16.2631</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.351</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T21:30:20.092Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372787"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5800,-43.5881</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.479 - 2010-09-15T21:21:29.885Z</name>
+<TimeStamp>
+<when>2010-09-15T21:21:29.885Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372784</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>7.01</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.479</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T21:21:29.885Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372784"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3238,-43.5517</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.483 - 2010-09-15T19:24:47.439Z</name>
+<TimeStamp>
+<when>2010-09-15T19:24:47.439Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372745</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>7.1244</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.483</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T19:24:47.439Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372745"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5978,-43.4119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.297 - 2010-09-15T19:09:56.544Z</name>
+<TimeStamp>
+<when>2010-09-15T19:09:56.544Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372740</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>9.5909</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.297</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T19:09:56.544Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372740"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3887,-43.5851</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.332 - 2010-09-15T18:14:39.949Z</name>
+<TimeStamp>
+<when>2010-09-15T18:14:39.949Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372721</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.7379</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.332</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T18:14:39.949Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372721"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.5781,-43.6586</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.473 - 2010-09-15T17:58:14.514Z</name>
+<TimeStamp>
+<when>2010-09-15T17:58:14.514Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372716</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>16.8348</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.473</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T17:58:14.514Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372716"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4974,-43.5969</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.695 - 2010-09-15T17:37:44.890Z</name>
+<TimeStamp>
+<when>2010-09-15T17:37:44.890Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372709</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>11.1689</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.695</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T17:37:44.890Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372709"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5272,-43.6228</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.519 - 2010-09-15T17:15:46.283Z</name>
+<TimeStamp>
+<when>2010-09-15T17:15:46.283Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372703</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.519</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T17:15:46.283Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372703"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1283,-43.4270</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.222 - 2010-09-15T17:07:33.697Z</name>
+<TimeStamp>
+<when>2010-09-15T17:07:33.697Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372701</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>4.1488</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.222</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T17:07:33.697Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372701"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4655,-43.4930</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.395 - 2010-09-15T17:04:19.841Z</name>
+<TimeStamp>
+<when>2010-09-15T17:04:19.841Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372700</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.395</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T17:04:19.841Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372700"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3996,-43.5572</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.151 - 2010-09-15T16:44:54.138Z</name>
+<TimeStamp>
+<when>2010-09-15T16:44:54.138Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372695</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>15.8626</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.151</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T16:44:54.138Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372695"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5884,-43.5093</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.164 - 2010-09-15T15:29:10.635Z</name>
+<TimeStamp>
+<when>2010-09-15T15:29:10.635Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372667</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12.9703</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.164</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T15:29:10.635Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372667"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4084,-43.6216</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.164 - 2010-09-15T15:00:07.743Z</name>
+<TimeStamp>
+<when>2010-09-15T15:00:07.743Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372657</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>8.0914</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.164</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T15:00:07.743Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372657"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3680,-43.2965</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.501 - 2010-09-15T11:23:20.999Z</name>
+<TimeStamp>
+<when>2010-09-15T11:23:20.999Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372575</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>14.9326</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.501</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T11:23:20.999Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372575"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5551,-43.6065</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.236 - 2010-09-15T11:03:03.437Z</name>
+<TimeStamp>
+<when>2010-09-15T11:03:03.437Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372569</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>8.4294</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.236</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T11:03:03.437Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372569"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4635,-43.6301</coordinates>
+</Point>
+</Placemark>
 <Placemark>
 <name>M3.377 - 2010-09-15T10:35:35.034Z</name>
 <TimeStamp>
@@ -4094,11 +6018,11 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.116 - 2010-09-14T20:46:37.738Z</name>
+<name>M3.053 - 2010-09-14T20:46:36.585Z</name>
 <TimeStamp>
-<when>2010-09-14T20:46:37.738Z</when>
+<when>2010-09-14T20:46:36.585Z</when>
 </TimeStamp>
-<styleUrl>#yellow</styleUrl>
+<styleUrl>#pink</styleUrl>
 <Style>
 <IconStyle>
 <scale>0.3</scale>
@@ -4111,15 +6035,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>75.6549</value>
+<value>13.5255</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.116</value>
+<value>3.053</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-14T20:46:37.738Z</value>
+<value>2010-09-14T20:46:36.585Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -4127,7 +6051,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.2034,-43.5905</coordinates>
+<coordinates>172.1310,-43.5628</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -4871,11 +6795,11 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.651 - 2010-09-13T18:21:37.704Z</name>
+<name>M3.574 - 2010-09-13T18:21:39.964Z</name>
 <TimeStamp>
-<when>2010-09-13T18:21:37.704Z</when>
+<when>2010-09-13T18:21:39.964Z</when>
 </TimeStamp>
-<styleUrl>#yellow</styleUrl>
+<styleUrl>#red</styleUrl>
 <Style>
 <IconStyle>
 <scale>0.3</scale>
@@ -4888,15 +6812,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>89.9584</value>
+<value>18.1732</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.651</value>
+<value>3.574</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-13T18:21:37.704Z</value>
+<value>2010-09-13T18:21:39.964Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -4904,7 +6828,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4631,-43.5983</coordinates>
+<coordinates>172.3659,-43.5591</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -7609,9 +9533,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.948 - 2010-09-08T09:14:54.816Z</name>
+<name>M3.947 - 2010-09-08T09:14:54.813Z</name>
 <TimeStamp>
-<when>2010-09-08T09:14:54.816Z</when>
+<when>2010-09-08T09:14:54.813Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -7626,15 +9550,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>10.1508</value>
+<value>10.1798</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.948</value>
+<value>3.947</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T09:14:54.816Z</value>
+<value>2010-09-08T09:14:54.813Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7642,13 +9566,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4708,-43.6251</coordinates>
+<coordinates>172.4715,-43.6251</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.153 - 2010-09-08T08:23:55.699Z</name>
+<name>M3.35 - 2010-09-08T08:23:55.893Z</name>
 <TimeStamp>
-<when>2010-09-08T08:23:55.699Z</when>
+<when>2010-09-08T08:23:55.893Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -7663,15 +9587,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>7.641</value>
+<value>3</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.153</value>
+<value>3.35</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T08:23:55.699Z</value>
+<value>2010-09-08T08:23:55.893Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7679,13 +9603,50 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.5826,-43.5912</coordinates>
+<coordinates>172.5383,-43.5937</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.364 - 2010-09-08T07:28:41.278Z</name>
+<name>M3.064 - 2010-09-08T07:51:50.541Z</name>
 <TimeStamp>
-<when>2010-09-08T07:28:41.278Z</when>
+<when>2010-09-08T07:51:50.541Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368885</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.064</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T07:51:50.541Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368885"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.6412,-43.5748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.403 - 2010-09-08T07:28:41.430Z</name>
+<TimeStamp>
+<when>2010-09-08T07:28:41.430Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -7700,15 +9661,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>5</value>
+<value>12</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.364</value>
+<value>3.403</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T07:28:41.278Z</value>
+<value>2010-09-08T07:28:41.430Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7716,13 +9677,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4322,-43.6530</coordinates>
+<coordinates>172.5012,-43.6583</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.636 - 2010-09-08T06:57:19.240Z</name>
+<name>M3.628 - 2010-09-08T06:57:19.255Z</name>
 <TimeStamp>
-<when>2010-09-08T06:57:19.240Z</when>
+<when>2010-09-08T06:57:19.255Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -7737,15 +9698,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>4.9071</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.636</value>
+<value>3.628</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T06:57:19.240Z</value>
+<value>2010-09-08T06:57:19.255Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7753,13 +9714,124 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4302,-43.6501</coordinates>
+<coordinates>172.4299,-43.6513</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.448 - 2010-09-08T04:42:14.736Z</name>
+<name>M3.025 - 2010-09-08T06:29:41.518Z</name>
 <TimeStamp>
-<when>2010-09-08T04:42:14.736Z</when>
+<when>2010-09-08T06:29:41.518Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368795</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.025</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T06:29:41.518Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368795"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4774,-43.8031</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.256 - 2010-09-08T05:29:51.476Z</name>
+<TimeStamp>
+<when>2010-09-08T05:29:51.476Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368664</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.256</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T05:29:51.476Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368664"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5550,-43.5862</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.003 - 2010-09-08T05:00:07.789Z</name>
+<TimeStamp>
+<when>2010-09-08T05:00:07.789Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368654</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.003</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T05:00:07.789Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368654"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3029,-43.5642</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.439 - 2010-09-08T04:42:14.801Z</name>
+<TimeStamp>
+<when>2010-09-08T04:42:14.801Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -7774,15 +9846,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>8.1106</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.448</value>
+<value>3.439</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T04:42:14.736Z</value>
+<value>2010-09-08T04:42:14.801Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7790,13 +9862,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.5804,-43.5834</coordinates>
+<coordinates>172.5496,-43.5915</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.199 - 2010-09-08T03:21:46.815Z</name>
+<name>M3.292 - 2010-09-08T03:21:46.749Z</name>
 <TimeStamp>
-<when>2010-09-08T03:21:46.815Z</when>
+<when>2010-09-08T03:21:46.749Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -7815,11 +9887,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.199</value>
+<value>3.292</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T03:21:46.815Z</value>
+<value>2010-09-08T03:21:46.749Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7827,13 +9899,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>171.9747,-43.5663</coordinates>
+<coordinates>171.9728,-43.5668</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.051 - 2010-09-08T03:00:37.974Z</name>
+<name>M3.07 - 2010-09-08T03:00:37.926Z</name>
 <TimeStamp>
-<when>2010-09-08T03:00:37.974Z</when>
+<when>2010-09-08T03:00:37.926Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -7848,15 +9920,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>11.4859</value>
+<value>11.5586</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.051</value>
+<value>3.07</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T03:00:37.974Z</value>
+<value>2010-09-08T03:00:37.926Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7864,15 +9936,15 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.6005,-43.5705</coordinates>
+<coordinates>172.6004,-43.5742</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.042 - 2010-09-08T01:20:22.056Z</name>
+<name>M3.183 - 2010-09-08T01:20:22.037Z</name>
 <TimeStamp>
-<when>2010-09-08T01:20:22.056Z</when>
+<when>2010-09-08T01:20:22.037Z</when>
 </TimeStamp>
-<styleUrl>#red</styleUrl>
+<styleUrl>#pink</styleUrl>
 <Style>
 <IconStyle>
 <scale>0.3</scale>
@@ -7885,15 +9957,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>15.1089</value>
+<value>14.8906</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.042</value>
+<value>3.183</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T01:20:22.056Z</value>
+<value>2010-09-08T01:20:22.037Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -7901,7 +9973,44 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.5154,-43.6413</coordinates>
+<coordinates>172.5100,-43.6419</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.267 - 2010-09-08T01:09:38.981Z</name>
+<TimeStamp>
+<when>2010-09-08T01:09:38.981Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368564</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.267</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T01:09:38.981Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368564"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4477,-43.5329</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -8756,6 +10865,43 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>M3.831 - 2010-09-07T06:40:05.214Z</name>
+<TimeStamp>
+<when>2010-09-07T06:40:05.214Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368160</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.831</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T06:40:05.214Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368160"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.7372,-43.5928</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>M3.16 - 2010-09-07T06:04:33.991Z</name>
 <TimeStamp>
 <when>2010-09-07T06:04:33.991Z</when>
@@ -8830,9 +10976,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.441 - 2010-09-07T03:53:06.499Z</name>
+<name>M3.39 - 2010-09-07T03:53:06.724Z</name>
 <TimeStamp>
-<when>2010-09-07T03:53:06.499Z</when>
+<when>2010-09-07T03:53:06.724Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -8847,15 +10993,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>8.9589</value>
+<value>8.8474</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.441</value>
+<value>3.39</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-07T03:53:06.499Z</value>
+<value>2010-09-07T03:53:06.724Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -8863,15 +11009,15 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1559,-43.4975</coordinates>
+<coordinates>172.1419,-43.5104</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.336 - 2010-09-07T03:04:09.120Z</name>
+<name>M3.374 - 2010-09-07T03:04:09.257Z</name>
 <TimeStamp>
-<when>2010-09-07T03:04:09.120Z</when>
+<when>2010-09-07T03:04:09.257Z</when>
 </TimeStamp>
-<styleUrl>#pink</styleUrl>
+<styleUrl>#red</styleUrl>
 <Style>
 <IconStyle>
 <scale>0.3</scale>
@@ -8884,15 +11030,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>6.5453</value>
+<value>18.781</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.336</value>
+<value>3.374</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-07T03:04:09.120Z</value>
+<value>2010-09-07T03:04:09.257Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -8900,13 +11046,161 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.2801,-43.5736</coordinates>
+<coordinates>172.3280,-43.5945</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.479 - 2010-09-07T01:07:19.513Z</name>
+<name>M3.003 - 2010-09-07T02:19:26.196Z</name>
 <TimeStamp>
-<when>2010-09-07T01:07:19.513Z</when>
+<when>2010-09-07T02:19:26.196Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368068</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.003</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T02:19:26.196Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368068"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1592,-43.6305</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.015 - 2010-09-07T01:39:07.083Z</name>
+<TimeStamp>
+<when>2010-09-07T01:39:07.083Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368058</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.015</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:39:07.083Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368058"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3279,-43.5510</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.546 - 2010-09-07T01:15:18.358Z</name>
+<TimeStamp>
+<when>2010-09-07T01:15:18.358Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368042</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.546</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:15:18.358Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368042"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3654,-43.5747</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.018 - 2010-09-07T01:12:36.232Z</name>
+<TimeStamp>
+<when>2010-09-07T01:12:36.232Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368041</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>6.9759</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.018</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:12:36.232Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368041"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3873,-43.5986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.512 - 2010-09-07T01:07:19.878Z</name>
+<TimeStamp>
+<when>2010-09-07T01:07:19.878Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -8921,15 +11215,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>5</value>
+<value>13.2993</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.479</value>
+<value>3.512</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-07T01:07:19.513Z</value>
+<value>2010-09-07T01:07:19.878Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -8937,15 +11231,15 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4261,-43.5889</coordinates>
+<coordinates>172.4160,-43.6149</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.095 - 2010-09-07T01:04:34.653Z</name>
+<name>M3.121 - 2010-09-07T01:04:34.290Z</name>
 <TimeStamp>
-<when>2010-09-07T01:04:34.653Z</when>
+<when>2010-09-07T01:04:34.290Z</when>
 </TimeStamp>
-<styleUrl>#red</styleUrl>
+<styleUrl>#pink</styleUrl>
 <Style>
 <IconStyle>
 <scale>0.3</scale>
@@ -8958,15 +11252,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>20</value>
+<value>8.9199</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.095</value>
+<value>3.121</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-07T01:04:34.653Z</value>
+<value>2010-09-07T01:04:34.290Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -8974,7 +11268,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4952,-43.6573</coordinates>
+<coordinates>172.4002,-43.6286</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -10902,9 +13196,46 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.263 - 2010-09-06T03:15:44.081Z</name>
+<name>M3.085 - 2010-09-06T03:18:50.093Z</name>
 <TimeStamp>
-<when>2010-09-06T03:15:44.081Z</when>
+<when>2010-09-06T03:18:50.093Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367538</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>18.5438</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.085</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-06T03:18:50.093Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367538"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5840,-43.5152</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.302 - 2010-09-06T03:15:44.141Z</name>
+<TimeStamp>
+<when>2010-09-06T03:15:44.141Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -10923,11 +13254,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.263</value>
+<value>3.302</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T03:15:44.081Z</value>
+<value>2010-09-06T03:15:44.141Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -10935,13 +13266,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1874,-43.5131</coordinates>
+<coordinates>172.1853,-43.5116</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.43 - 2010-09-06T03:05:26.227Z</name>
+<name>M3.824 - 2010-09-06T03:07:42.088Z</name>
 <TimeStamp>
-<when>2010-09-06T03:05:26.227Z</when>
+<when>2010-09-06T03:07:42.088Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -10956,15 +13287,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>7.1619</value>
+<value>12</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.43</value>
+<value>3.824</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T03:05:26.227Z</value>
+<value>2010-09-06T03:07:42.088Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -10972,13 +13303,87 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3775,-43.5755</coordinates>
+<coordinates>172.4015,-43.6201</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.203 - 2010-09-06T02:53:55.604Z</name>
+<name>M3.48 - 2010-09-06T03:05:26.125Z</name>
 <TimeStamp>
-<when>2010-09-06T02:53:55.604Z</when>
+<when>2010-09-06T03:05:26.125Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372913</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.48</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-06T03:05:26.125Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372913"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3689,-43.5762</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.071 - 2010-09-06T02:56:39.604Z</name>
+<TimeStamp>
+<when>2010-09-06T02:56:39.604Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367530</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.071</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-06T02:56:39.604Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367530"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2227,-43.5945</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.293 - 2010-09-06T02:53:55.580Z</name>
+<TimeStamp>
+<when>2010-09-06T02:53:55.580Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -10997,11 +13402,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.203</value>
+<value>3.293</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T02:53:55.604Z</value>
+<value>2010-09-06T02:53:55.580Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -11009,13 +13414,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3527,-43.5400</coordinates>
+<coordinates>172.3431,-43.5340</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.104 - 2010-09-06T02:41:33.163Z</name>
+<name>M3.129 - 2010-09-06T02:41:33.334Z</name>
 <TimeStamp>
-<when>2010-09-06T02:41:33.163Z</when>
+<when>2010-09-06T02:41:33.334Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -11034,11 +13439,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.104</value>
+<value>3.129</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T02:41:33.163Z</value>
+<value>2010-09-06T02:41:33.334Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -11046,13 +13451,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1941,-43.6068</coordinates>
+<coordinates>172.1798,-43.5789</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.151 - 2010-09-06T02:30:31.351Z</name>
+<name>M3.215 - 2010-09-06T02:30:31.068Z</name>
 <TimeStamp>
-<when>2010-09-06T02:30:31.351Z</when>
+<when>2010-09-06T02:30:31.068Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -11071,11 +13476,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.151</value>
+<value>3.215</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T02:30:31.351Z</value>
+<value>2010-09-06T02:30:31.068Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -11083,7 +13488,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4368,-43.6377</coordinates>
+<coordinates>172.4118,-43.6002</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -12641,9 +15046,83 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.603 - 2010-09-05T12:52:05.569Z</name>
+<name>M3.06 - 2010-09-05T13:57:49.735Z</name>
 <TimeStamp>
-<when>2010-09-05T12:52:05.569Z</when>
+<when>2010-09-05T13:57:49.735Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367229</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.06</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:57:49.735Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367229"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3945,-43.6137</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.108 - 2010-09-05T13:46:55.281Z</name>
+<TimeStamp>
+<when>2010-09-05T13:46:55.281Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367223</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.108</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:46:55.281Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367223"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.8858,-43.5714</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.703 - 2010-09-05T12:52:05.582Z</name>
+<TimeStamp>
+<when>2010-09-05T12:52:05.582Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -12662,11 +15141,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.603</value>
+<value>3.703</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-05T12:52:05.569Z</value>
+<value>2010-09-05T12:52:05.582Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -12674,13 +15153,87 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.2121,-43.4801</coordinates>
+<coordinates>172.1771,-43.4929</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M3.495 - 2010-09-05T11:59:20.805Z</name>
+<name>M3.725 - 2010-09-05T12:52:05.540Z</name>
 <TimeStamp>
-<when>2010-09-05T11:59:20.805Z</when>
+<when>2010-09-05T12:52:05.540Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367202</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.725</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:52:05.540Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367202"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1719,-43.4954</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.011 - 2010-09-05T12:42:06.018Z</name>
+<TimeStamp>
+<when>2010-09-05T12:42:06.018Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367199</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.011</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:42:06.018Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367199"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3914,-43.6032</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M3.57 - 2010-09-05T11:59:20.252Z</name>
+<TimeStamp>
+<when>2010-09-05T11:59:20.252Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -12695,15 +15248,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>12</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>3.495</value>
+<value>3.57</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-05T11:59:20.805Z</value>
+<value>2010-09-05T11:59:20.252Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -12711,7 +15264,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3374,-43.5916</coordinates>
+<coordinates>172.2444,-43.6375</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -16488,9 +19041,379 @@
 <coordinates>172.3855,-43.6017</coordinates>
 </Point>
 </Placemark>
+<Placemark>
+<name>M3.992 - 2010-09-03T18:07:13.058Z</name>
+<TimeStamp>
+<when>2010-09-03T18:07:13.058Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.3</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3366188</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>9.3183</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>3.992</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-03T18:07:13.058Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3366188"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4304,-43.6064</coordinates>
+</Point>
+</Placemark>
 </Folder>
 <Folder>
 <name>Mag 2 earthquakes by date</name>
+<Placemark>
+<name>M2.342 - 2010-09-16T18:49:42.705Z</name>
+<TimeStamp>
+<when>2010-09-16T18:49:42.705Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373273</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.342</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T18:49:42.705Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373273"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2527,-43.6224</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.811 - 2010-09-16T16:40:32.169Z</name>
+<TimeStamp>
+<when>2010-09-16T16:40:32.169Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373217</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>14.0077</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.811</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T16:40:32.169Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373217"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3880,-43.6152</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.756 - 2010-09-16T12:01:58.925Z</name>
+<TimeStamp>
+<when>2010-09-16T12:01:58.925Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373116</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.756</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T12:01:58.925Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373116"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4135,-43.4294</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.682 - 2010-09-16T11:37:00.265Z</name>
+<TimeStamp>
+<when>2010-09-16T11:37:00.265Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373106</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.682</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T11:37:00.265Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373106"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5712,-43.5173</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.872 - 2010-09-16T07:25:04.075Z</name>
+<TimeStamp>
+<when>2010-09-16T07:25:04.075Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373017</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.872</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T07:25:04.075Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373017"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.6944,-43.4494</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.623 - 2010-09-16T03:55:48.019Z</name>
+<TimeStamp>
+<when>2010-09-16T03:55:48.019Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372938</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>2</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.623</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T03:55:48.019Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372938"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4476,-43.4824</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.875 - 2010-09-16T01:41:58.922Z</name>
+<TimeStamp>
+<when>2010-09-16T01:41:58.922Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372883</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.875</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-16T01:41:58.922Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372883"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4552,-43.5136</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.949 - 2010-09-15T17:55:49.359Z</name>
+<TimeStamp>
+<when>2010-09-15T17:55:49.359Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372715</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.949</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T17:55:49.359Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372715"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5835,-43.5729</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.932 - 2010-09-15T16:40:40.577Z</name>
+<TimeStamp>
+<when>2010-09-15T16:40:40.577Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372692</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.932</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-15T16:40:40.577Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372692"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.6038,-43.5504</coordinates>
+</Point>
+</Placemark>
 <Placemark>
 <name>M2.864 - 2010-09-15T01:31:55.042Z</name>
 <TimeStamp>
@@ -16529,6 +19452,43 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>M2.959 - 2010-09-14T23:48:14.373Z</name>
+<TimeStamp>
+<when>2010-09-14T23:48:14.373Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372315</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>0</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.959</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-14T23:48:14.373Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372315"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2393,-43.4398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>M2.652 - 2010-09-14T12:58:56.713Z</name>
 <TimeStamp>
 <when>2010-09-14T12:58:56.713Z</when>
@@ -16563,6 +19523,43 @@
 </ExtendedData>
 <Point>
 <coordinates>172.4895,-43.4725</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.738 - 2010-09-14T06:06:10.947Z</name>
+<TimeStamp>
+<when>2010-09-14T06:06:10.947Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3371951</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>10</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.738</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-14T06:06:10.947Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3371951"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1120,-43.5023</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -18749,9 +21746,453 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.602 - 2010-09-08T08:23:19.967Z</name>
+<name>M2.956 - 2010-09-08T10:19:04.584Z</name>
 <TimeStamp>
-<when>2010-09-08T08:23:19.967Z</when>
+<when>2010-09-08T10:19:04.584Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373524</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>15.2049</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.956</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T10:19:04.584Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373524"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5662,-43.6549</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.78 - 2010-09-08T10:17:26.849Z</name>
+<TimeStamp>
+<when>2010-09-08T10:17:26.849Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368942</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.78</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T10:17:26.849Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368942"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2515,-43.4743</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.776 - 2010-09-08T10:08:35.359Z</name>
+<TimeStamp>
+<when>2010-09-08T10:08:35.359Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368938</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.776</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T10:08:35.359Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368938"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1948,-43.5658</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.619 - 2010-09-08T09:55:44.900Z</name>
+<TimeStamp>
+<when>2010-09-08T09:55:44.900Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368934</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.619</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T09:55:44.900Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368934"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2517,-43.3329</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.772 - 2010-09-08T09:47:20.876Z</name>
+<TimeStamp>
+<when>2010-09-08T09:47:20.876Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368931</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.772</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T09:47:20.876Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368931"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2719,-43.5946</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.979 - 2010-09-08T09:36:43.480Z</name>
+<TimeStamp>
+<when>2010-09-08T09:36:43.480Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368927</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>24.0521</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.979</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T09:36:43.480Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368927"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>173.0546,-43.7504</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.555 - 2010-09-08T09:32:05.730Z</name>
+<TimeStamp>
+<when>2010-09-08T09:32:05.730Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368925</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>20.5986</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.555</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T09:32:05.730Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368925"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.7056,-43.6196</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.536 - 2010-09-08T09:30:34.925Z</name>
+<TimeStamp>
+<when>2010-09-08T09:30:34.925Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373497</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.536</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T09:30:34.925Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373497"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1896,-43.5382</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.73 - 2010-09-08T08:44:56.997Z</name>
+<TimeStamp>
+<when>2010-09-08T08:44:56.997Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368906</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.73</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T08:44:56.997Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368906"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1913,-43.3046</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.455 - 2010-09-08T08:33:22.433Z</name>
+<TimeStamp>
+<when>2010-09-08T08:33:22.433Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368902</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.455</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T08:33:22.433Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368902"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2157,-43.6151</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.773 - 2010-09-08T08:28:30.163Z</name>
+<TimeStamp>
+<when>2010-09-08T08:28:30.163Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368899</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.773</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T08:28:30.163Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368899"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3965,-43.5398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.482 - 2010-09-08T08:27:03.634Z</name>
+<TimeStamp>
+<when>2010-09-08T08:27:03.634Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368898</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.482</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T08:27:03.634Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368898"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1680,-43.4687</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.723 - 2010-09-08T08:23:19.935Z</name>
+<TimeStamp>
+<when>2010-09-08T08:23:19.935Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -18766,15 +22207,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>8.497</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.602</value>
+<value>2.723</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T08:23:19.967Z</value>
+<value>2010-09-08T08:23:19.935Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -18782,13 +22223,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.2985,-43.5615</coordinates>
+<coordinates>172.2748,-43.5792</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.915 - 2010-09-08T07:51:50.689Z</name>
+<name>M2.655 - 2010-09-08T08:21:12.874Z</name>
 <TimeStamp>
-<when>2010-09-08T07:51:50.689Z</when>
+<when>2010-09-08T08:21:12.874Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -18799,33 +22240,218 @@
 <ExtendedData>
 <Data name="ref">
 <displayName>Reference</displayName>
-<value>3368885</value>
+<value>3368896</value>
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>4.1488</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.915</value>
+<value>2.655</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T07:51:50.689Z</value>
+<value>2010-09-08T08:21:12.874Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
-<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368885"&gt;Click here&lt;/a&gt;</value>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368896"&gt;Click here&lt;/a&gt;</value>
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.6043,-43.5812</coordinates>
+<coordinates>172.2079,-43.5907</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.648 - 2010-09-08T07:03:25.196Z</name>
+<name>M2.601 - 2010-09-08T08:07:10.247Z</name>
 <TimeStamp>
-<when>2010-09-08T07:03:25.196Z</when>
+<when>2010-09-08T08:07:10.247Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373479</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>2</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.601</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T08:07:10.247Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373479"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.9692,-43.5769</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.864 - 2010-09-08T08:02:57.112Z</name>
+<TimeStamp>
+<when>2010-09-08T08:02:57.112Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368889</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>14.9367</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.864</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T08:02:57.112Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368889"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.5486,-43.6486</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.916 - 2010-09-08T07:42:58.516Z</name>
+<TimeStamp>
+<when>2010-09-08T07:42:58.516Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368882</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.916</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T07:42:58.516Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368882"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2819,-43.6124</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.765 - 2010-09-08T07:14:50.676Z</name>
+<TimeStamp>
+<when>2010-09-08T07:14:50.676Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368871</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.765</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T07:14:50.676Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368871"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2311,-43.6087</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.817 - 2010-09-08T07:06:06.244Z</name>
+<TimeStamp>
+<when>2010-09-08T07:06:06.244Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368869</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.817</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T07:06:06.244Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368869"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1811,-43.3181</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.853 - 2010-09-08T07:03:24.765Z</name>
+<TimeStamp>
+<when>2010-09-08T07:03:24.765Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -18840,15 +22466,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>7.1275</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.648</value>
+<value>2.853</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T07:03:25.196Z</value>
+<value>2010-09-08T07:03:24.765Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -18856,13 +22482,50 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.6606,-43.5687</coordinates>
+<coordinates>172.7208,-43.5464</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.843 - 2010-09-08T06:48:33.187Z</name>
+<name>M2.554 - 2010-09-08T06:59:33.828Z</name>
 <TimeStamp>
-<when>2010-09-08T06:48:33.187Z</when>
+<when>2010-09-08T06:59:33.828Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368861</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.554</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T06:59:33.828Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368861"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1507,-43.5850</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.997 - 2010-09-08T06:48:33.463Z</name>
+<TimeStamp>
+<when>2010-09-08T06:48:33.463Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -18877,15 +22540,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>7.5076</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.843</value>
+<value>2.997</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T06:48:33.187Z</value>
+<value>2010-09-08T06:48:33.463Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -18893,13 +22556,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.6758,-43.5911</coordinates>
+<coordinates>172.6901,-43.5769</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.837 - 2010-09-08T06:29:41.513Z</name>
+<name>M2.91 - 2010-09-08T06:41:59.285Z</name>
 <TimeStamp>
-<when>2010-09-08T06:29:41.513Z</when>
+<when>2010-09-08T06:41:59.285Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -18910,33 +22573,33 @@
 <ExtendedData>
 <Data name="ref">
 <displayName>Reference</displayName>
-<value>3368795</value>
+<value>3368799</value>
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>10.7454</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.837</value>
+<value>2.91</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T06:29:41.513Z</value>
+<value>2010-09-08T06:41:59.285Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
-<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368795"&gt;Click here&lt;/a&gt;</value>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368799"&gt;Click here&lt;/a&gt;</value>
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.4253,-43.7969</coordinates>
+<coordinates>172.3506,-43.5857</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.632 - 2010-09-08T06:19:19.237Z</name>
+<name>M2.772 - 2010-09-08T06:19:19.842Z</name>
 <TimeStamp>
-<when>2010-09-08T06:19:19.237Z</when>
+<when>2010-09-08T06:19:19.842Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -18951,15 +22614,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>5</value>
+<value>12</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.632</value>
+<value>2.772</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T06:19:19.237Z</value>
+<value>2010-09-08T06:19:19.842Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -18967,13 +22630,13 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.1915,-43.5748</coordinates>
+<coordinates>172.2153,-43.5482</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.992 - 2010-09-08T05:29:51.337Z</name>
+<name>M2.661 - 2010-09-08T06:03:54.108Z</name>
 <TimeStamp>
-<when>2010-09-08T05:29:51.337Z</when>
+<when>2010-09-08T06:03:54.108Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -18984,33 +22647,366 @@
 <ExtendedData>
 <Data name="ref">
 <displayName>Reference</displayName>
-<value>3368664</value>
+<value>3368774</value>
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>7.1989</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.992</value>
+<value>2.661</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T05:29:51.337Z</value>
+<value>2010-09-08T06:03:54.108Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
-<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368664"&gt;Click here&lt;/a&gt;</value>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368774"&gt;Click here&lt;/a&gt;</value>
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.5824,-43.5800</coordinates>
+<coordinates>172.2770,-43.5814</coordinates>
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.526 - 2010-09-08T02:55:40.723Z</name>
+<name>M2.776 - 2010-09-08T05:42:49.454Z</name>
 <TimeStamp>
-<when>2010-09-08T02:55:40.723Z</when>
+<when>2010-09-08T05:42:49.454Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373410</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>19.9704</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.776</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T05:42:49.454Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373410"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3678,-43.5779</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.552 - 2010-09-08T05:27:05.384Z</name>
+<TimeStamp>
+<when>2010-09-08T05:27:05.384Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368663</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>17.2372</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.552</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T05:27:05.384Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368663"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2274,-43.4901</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.78 - 2010-09-08T04:33:56.357Z</name>
+<TimeStamp>
+<when>2010-09-08T04:33:56.357Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368646</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.78</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T04:33:56.357Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368646"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4206,-43.8278</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.724 - 2010-09-08T04:07:16.525Z</name>
+<TimeStamp>
+<when>2010-09-08T04:07:16.525Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368637</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.724</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T04:07:16.525Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368637"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.0856,-43.5296</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.547 - 2010-09-08T04:04:53.178Z</name>
+<TimeStamp>
+<when>2010-09-08T04:04:53.178Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368636</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.547</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T04:04:53.178Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368636"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3548,-43.5875</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.862 - 2010-09-08T03:59:19.502Z</name>
+<TimeStamp>
+<when>2010-09-08T03:59:19.502Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368635</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>28.5016</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.862</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T03:59:19.502Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368635"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.9256,-43.6714</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.816 - 2010-09-08T03:57:36.936Z</name>
+<TimeStamp>
+<when>2010-09-08T03:57:36.936Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368634</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>26.6483</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.816</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T03:57:36.936Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368634"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.9707,-43.7054</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.591 - 2010-09-08T03:39:02.232Z</name>
+<TimeStamp>
+<when>2010-09-08T03:39:02.232Z</when>
+</TimeStamp>
+<styleUrl>#red</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368627</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>15.7391</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.591</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T03:39:02.232Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368627"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4390,-43.6508</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.466 - 2010-09-08T03:33:08.046Z</name>
+<TimeStamp>
+<when>2010-09-08T03:33:08.046Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368623</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.466</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T03:33:08.046Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368623"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3502,-43.5850</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.756 - 2010-09-08T02:55:40.676Z</name>
+<TimeStamp>
+<when>2010-09-08T02:55:40.676Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -19025,15 +23021,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>6.4615</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.526</value>
+<value>2.756</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-08T02:55:40.723Z</value>
+<value>2010-09-08T02:55:40.676Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -19041,7 +23037,340 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.0131,-43.5649</coordinates>
+<coordinates>172.0128,-43.5670</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.31 - 2010-09-08T02:34:30.567Z</name>
+<TimeStamp>
+<when>2010-09-08T02:34:30.567Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372850</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.31</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T02:34:30.567Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372850"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1630,-43.5756</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.774 - 2010-09-08T02:27:43.412Z</name>
+<TimeStamp>
+<when>2010-09-08T02:27:43.412Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368600</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.774</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T02:27:43.412Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368600"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4664,-43.6101</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.853 - 2010-09-08T02:24:18.377Z</name>
+<TimeStamp>
+<when>2010-09-08T02:24:18.377Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368597</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.853</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T02:24:18.377Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368597"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2900,-43.6058</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.805 - 2010-09-08T02:07:48.016Z</name>
+<TimeStamp>
+<when>2010-09-08T02:07:48.016Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368592</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.805</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T02:07:48.016Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368592"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4657,-43.6313</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.852 - 2010-09-08T01:23:01.574Z</name>
+<TimeStamp>
+<when>2010-09-08T01:23:01.574Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368569</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.852</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T01:23:01.574Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368569"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3239,-43.5991</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.579 - 2010-09-08T01:15:12.968Z</name>
+<TimeStamp>
+<when>2010-09-08T01:15:12.968Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368566</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.579</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T01:15:12.968Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368566"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1611,-43.4339</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.82 - 2010-09-08T00:53:26.320Z</name>
+<TimeStamp>
+<when>2010-09-08T00:53:26.320Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368559</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.82</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T00:53:26.320Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368559"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.9160,-43.5847</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.708 - 2010-09-08T00:36:47.254Z</name>
+<TimeStamp>
+<when>2010-09-08T00:36:47.254Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368552</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.708</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T00:36:47.254Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368552"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4257,-43.5298</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.72 - 2010-09-08T00:14:40.755Z</name>
+<TimeStamp>
+<when>2010-09-08T00:14:40.755Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368544</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.72</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-08T00:14:40.755Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368544"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.7194,-43.5601</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -19193,6 +23522,43 @@
 </Point>
 </Placemark>
 <Placemark>
+<name>M2.956 - 2010-09-07T09:51:30.656Z</name>
+<TimeStamp>
+<when>2010-09-07T09:51:30.656Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368226</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>4.3049</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.956</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T09:51:30.656Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368226"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.7383,-43.5526</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <name>M2.536 - 2010-09-07T09:29:42.567Z</name>
 <TimeStamp>
 <when>2010-09-07T09:29:42.567Z</when>
@@ -19230,9 +23596,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.996 - 2010-09-07T01:39:07.109Z</name>
+<name>M2.616 - 2010-09-07T04:11:07.072Z</name>
 <TimeStamp>
-<when>2010-09-07T01:39:07.109Z</when>
+<when>2010-09-07T04:11:07.072Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -19243,27 +23609,508 @@
 <ExtendedData>
 <Data name="ref">
 <displayName>Reference</displayName>
-<value>3368058</value>
+<value>3368108</value>
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>4.9809</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.996</value>
+<value>2.616</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-07T01:39:07.109Z</value>
+<value>2010-09-07T04:11:07.072Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
-<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368058"&gt;Click here&lt;/a&gt;</value>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368108"&gt;Click here&lt;/a&gt;</value>
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3436,-43.5392</coordinates>
+<coordinates>172.1844,-43.4513</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.362 - 2010-09-07T03:46:28.700Z</name>
+<TimeStamp>
+<when>2010-09-07T03:46:28.700Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368098</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.362</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T03:46:28.700Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368098"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.0962,-43.6095</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.836 - 2010-09-07T03:10:49.420Z</name>
+<TimeStamp>
+<when>2010-09-07T03:10:49.420Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368084</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.836</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T03:10:49.420Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368084"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3395,-43.6016</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.646 - 2010-09-07T02:53:52.670Z</name>
+<TimeStamp>
+<when>2010-09-07T02:53:52.670Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373407</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.646</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T02:53:52.670Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373407"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.0059,-43.6339</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.664 - 2010-09-07T02:51:18.432Z</name>
+<TimeStamp>
+<when>2010-09-07T02:51:18.432Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373450</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.664</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T02:51:18.432Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373450"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3390,-43.6144</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.529 - 2010-09-07T02:49:15.034Z</name>
+<TimeStamp>
+<when>2010-09-07T02:49:15.034Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368077</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.529</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T02:49:15.034Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368077"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>171.8880,-43.5522</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.759 - 2010-09-07T02:47:04.840Z</name>
+<TimeStamp>
+<when>2010-09-07T02:47:04.840Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368076</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.759</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T02:47:04.840Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368076"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1702,-43.5933</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.715 - 2010-09-07T02:12:06.327Z</name>
+<TimeStamp>
+<when>2010-09-07T02:12:06.327Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368066</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>3</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.715</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T02:12:06.327Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368066"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3792,-43.5764</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.762 - 2010-09-07T02:03:31.940Z</name>
+<TimeStamp>
+<when>2010-09-07T02:03:31.940Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368061</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.762</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T02:03:31.940Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368061"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3759,-43.5648</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.902 - 2010-09-07T01:50:16.209Z</name>
+<TimeStamp>
+<when>2010-09-07T01:50:16.209Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368056</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.902</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:50:16.209Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368056"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1814,-43.5352</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.632 - 2010-09-07T01:48:50.905Z</name>
+<TimeStamp>
+<when>2010-09-07T01:48:50.905Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368055</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.632</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:48:50.905Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368055"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3577,-43.6214</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.74 - 2010-09-07T01:41:44.565Z</name>
+<TimeStamp>
+<when>2010-09-07T01:41:44.565Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368053</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.74</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:41:44.565Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368053"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.0919,-43.6048</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.633 - 2010-09-07T01:33:59.460Z</name>
+<TimeStamp>
+<when>2010-09-07T01:33:59.460Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3368049</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.633</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:33:59.460Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3368049"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3658,-43.5831</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.652 - 2010-09-07T01:02:44.213Z</name>
+<TimeStamp>
+<when>2010-09-07T01:02:44.213Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372777</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.652</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-07T01:02:44.213Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372777"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1172,-43.6044</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -19452,9 +24299,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.596 - 2010-09-07T00:06:40.246Z</name>
+<name>M2.597 - 2010-09-07T00:06:40.260Z</name>
 <TimeStamp>
-<when>2010-09-07T00:06:40.246Z</when>
+<when>2010-09-07T00:06:40.260Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -19469,15 +24316,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>3</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.596</value>
+<value>2.597</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-07T00:06:40.246Z</value>
+<value>2010-09-07T00:06:40.260Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -19485,7 +24332,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3153,-43.6105</coordinates>
+<coordinates>172.3186,-43.6123</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -19745,6 +24592,117 @@
 </ExtendedData>
 <Point>
 <coordinates>172.3794,-43.5884</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.646 - 2010-09-06T03:29:12.899Z</name>
+<TimeStamp>
+<when>2010-09-06T03:29:12.899Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373473</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.646</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-06T03:29:12.899Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373473"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1342,-43.4722</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.479 - 2010-09-06T03:27:48.671Z</name>
+<TimeStamp>
+<when>2010-09-06T03:27:48.671Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373464</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.479</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-06T03:27:48.671Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373464"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3893,-43.6136</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.672 - 2010-09-06T02:21:31.280Z</name>
+<TimeStamp>
+<when>2010-09-06T02:21:31.280Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372891</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>12</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.672</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-06T02:21:31.280Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372891"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1821,-43.6152</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -20488,9 +25446,9 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.724 - 2010-09-06T00:22:13.299Z</name>
+<name>M2.784 - 2010-09-06T00:22:13.196Z</name>
 <TimeStamp>
-<when>2010-09-06T00:22:13.299Z</when>
+<when>2010-09-06T00:22:13.196Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -20509,11 +25467,11 @@
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.724</value>
+<value>2.784</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-06T00:22:13.299Z</value>
+<value>2010-09-06T00:22:13.196Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -20521,7 +25479,7 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.0704,-43.5966</coordinates>
+<coordinates>172.0656,-43.5987</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -20673,9 +25631,231 @@
 </Point>
 </Placemark>
 <Placemark>
-<name>M2.59 - 2010-09-05T13:14:06.022Z</name>
+<name>M2.773 - 2010-09-05T13:51:16.380Z</name>
 <TimeStamp>
-<when>2010-09-05T13:14:06.022Z</when>
+<when>2010-09-05T13:51:16.380Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367226</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.773</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:51:16.380Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367226"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3219,-43.6012</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.857 - 2010-09-05T13:43:31.544Z</name>
+<TimeStamp>
+<when>2010-09-05T13:43:31.544Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367222</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.857</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:43:31.544Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367222"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1531,-43.5855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.684 - 2010-09-05T13:38:31.644Z</name>
+<TimeStamp>
+<when>2010-09-05T13:38:31.644Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367220</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.684</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:38:31.644Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367220"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3642,-43.5720</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.682 - 2010-09-05T13:33:59.828Z</name>
+<TimeStamp>
+<when>2010-09-05T13:33:59.828Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373395</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.682</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:33:59.828Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373395"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3818,-43.6163</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.778 - 2010-09-05T13:22:23.470Z</name>
+<TimeStamp>
+<when>2010-09-05T13:22:23.470Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367214</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.778</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:22:23.470Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367214"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.0700,-43.5992</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.846 - 2010-09-05T13:16:38.456Z</name>
+<TimeStamp>
+<when>2010-09-05T13:16:38.456Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367212</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.846</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:16:38.456Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367212"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.0209,-43.6134</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.675 - 2010-09-05T13:14:05.900Z</name>
+<TimeStamp>
+<when>2010-09-05T13:14:05.900Z</when>
 </TimeStamp>
 <styleUrl>#pink</styleUrl>
 <Style>
@@ -20690,15 +25870,15 @@
 </Data>
 <Data name="z">
 <displayName>Depth (km)</displayName>
-<value>2</value>
+<value>5</value>
 </Data>
 <Data name="mag">
 <displayName>Magnitude</displayName>
-<value>2.59</value>
+<value>2.675</value>
 </Data>
 <Data name="date">
 <displayName>Date (UTC)</displayName>
-<value>2010-09-05T13:14:06.022Z</value>
+<value>2010-09-05T13:14:05.900Z</value>
 </Data>
 <Data name="info">
 <displayName>More info</displayName>
@@ -20706,7 +25886,562 @@
 </Data>
 </ExtendedData>
 <Point>
-<coordinates>172.3495,-43.5746</coordinates>
+<coordinates>172.3410,-43.5899</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.661 - 2010-09-05T13:05:14.636Z</name>
+<TimeStamp>
+<when>2010-09-05T13:05:14.636Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367208</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.661</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:05:14.636Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367208"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3841,-43.5671</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.601 - 2010-09-05T13:02:50.137Z</name>
+<TimeStamp>
+<when>2010-09-05T13:02:50.137Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367207</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.601</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T13:02:50.137Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367207"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3506,-43.5966</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.747 - 2010-09-05T12:59:51.773Z</name>
+<TimeStamp>
+<when>2010-09-05T12:59:51.773Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367206</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.747</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:59:51.773Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367206"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3320,-43.6148</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.82 - 2010-09-05T12:57:51.401Z</name>
+<TimeStamp>
+<when>2010-09-05T12:57:51.401Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367205</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.82</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:57:51.401Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367205"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1602,-43.5619</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.712 - 2010-09-05T12:55:10.298Z</name>
+<TimeStamp>
+<when>2010-09-05T12:55:10.298Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367204</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.712</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:55:10.298Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367204"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1555,-43.6066</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.918 - 2010-09-05T12:47:57.523Z</name>
+<TimeStamp>
+<when>2010-09-05T12:47:57.523Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367201</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.918</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:47:57.523Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367201"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.4906,-43.6127</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.747 - 2010-09-05T12:44:16.938Z</name>
+<TimeStamp>
+<when>2010-09-05T12:44:16.938Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367200</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.747</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:44:16.938Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367200"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3856,-43.6284</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.75 - 2010-09-05T12:36:36.399Z</name>
+<TimeStamp>
+<when>2010-09-05T12:36:36.399Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3373324</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.75</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:36:36.399Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3373324"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2110,-43.6286</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.654 - 2010-09-05T12:23:02.636Z</name>
+<TimeStamp>
+<when>2010-09-05T12:23:02.636Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372908</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.654</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:23:02.636Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372908"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1384,-43.5699</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.664 - 2010-09-05T12:20:57.195Z</name>
+<TimeStamp>
+<when>2010-09-05T12:20:57.195Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372906</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.664</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:20:57.195Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372906"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3084,-43.5558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.734 - 2010-09-05T12:20:34.748Z</name>
+<TimeStamp>
+<when>2010-09-05T12:20:34.748Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372900</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.734</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:20:34.748Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372900"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1104,-43.6496</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.456 - 2010-09-05T12:18:23.747Z</name>
+<TimeStamp>
+<when>2010-09-05T12:18:23.747Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372833</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.456</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:18:23.747Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372833"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.2240,-43.6470</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.628 - 2010-09-05T12:06:03.591Z</name>
+<TimeStamp>
+<when>2010-09-05T12:06:03.591Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367186</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.628</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:06:03.591Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367186"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3175,-43.6224</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.699 - 2010-09-05T12:04:22.681Z</name>
+<TimeStamp>
+<when>2010-09-05T12:04:22.681Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3372976</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.699</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:04:22.681Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3372976"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.3211,-43.6108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M2.72 - 2010-09-05T12:01:44.993Z</name>
+<TimeStamp>
+<when>2010-09-05T12:01:44.993Z</when>
+</TimeStamp>
+<styleUrl>#pink</styleUrl>
+<Style>
+<IconStyle>
+<scale>0.2</scale>
+</IconStyle>
+</Style>
+<ExtendedData>
+<Data name="ref">
+<displayName>Reference</displayName>
+<value>3367185</value>
+</Data>
+<Data name="z">
+<displayName>Depth (km)</displayName>
+<value>5</value>
+</Data>
+<Data name="mag">
+<displayName>Magnitude</displayName>
+<value>2.72</value>
+</Data>
+<Data name="date">
+<displayName>Date (UTC)</displayName>
+<value>2010-09-05T12:01:44.993Z</value>
+</Data>
+<Data name="info">
+<displayName>More info</displayName>
+<value>&lt;a href="http://magma.geonet.org.nz/services/quake/details/3367185"&gt;Click here&lt;/a&gt;</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>172.1663,-43.6074</coordinates>
 </Point>
 </Placemark>
 <Placemark>
