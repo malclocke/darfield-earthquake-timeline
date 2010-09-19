@@ -29,7 +29,7 @@ chd = [2,3,4,5,6,7].collect do |mag|
   end.join(',')
 end.join('|')
 
-puts "<img width=\"600\" height=\"400\" src=\"http://chart.apis.google.com/chart?cht=bvs&chs=600x400&chxt=x,y&chbh=30,10&chco=67dddd,6991fd,00e64d,fdf569,ff9900,fd7567&chm=N,000000,-1,,12&chtt=Quake+count+by+day&chd=t:#{chd}&chxl=#{chxl}\"/>"
+puts "<img width=\"800\" height=\"200\" src=\"http://chart.apis.google.com/chart?cht=bvs&chs=800x200&chxt=x,y&chbh=30,10&chco=67dddd,6991fd,00e64d,fdf569,ff9900,fd7567&chm=N,000000,-1,,12&chtt=Quake+count+by+day&chd=t:#{chd}&chxl=#{chxl}\"/>"
 puts '<ul class="totals">'
 totals.sort.each do |mag,total|
   puts "<li><strong>M#{mag} total:</strong> #{total}</li>"
